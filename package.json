@@ -1,4 +1,5 @@
 {
+  "name": "next-first",
   "private": true,
   "scripts": {
     "build": "next build",
